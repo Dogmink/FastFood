@@ -1,0 +1,7 @@
+.indexContainer{
+    display: flex;
+    min-height: 780px;
+    border-radius: 3rem;
+    margin: 10px 80px 10px 80px;
+    box-shadow: 0 0 15px #555;
+}
